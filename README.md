@@ -16,6 +16,7 @@ I am an experienced Senior Software Engineer with a strong background in full-st
 - Optimized AWS cloud infrastructure for UC applications, boosting system scalability by 50%.
 - Automated infrastructure management using Kubernetes, Docker, Jenkins, Ansible, and Terraform, achieving faster deployments and higher reliability.
 - Led cloud migration strategies with minimal downtime, leveraging Cisco's Prime Collaboration Deployment and backup tools.
+- **Award**: Received **Cisco Connected Recognition (CR)** for successful migration and documentation.
 
 #### Software Engineer @ Cisco Systems, Inc. (Varite Inc.)
 *January 2020 – August 2021*
@@ -28,6 +29,9 @@ I am an experienced Senior Software Engineer with a strong background in full-st
 - Developed features for British Telecom OSS, utilizing Java, PL/SQL, and XML, enhancing network design performance by 50%.
 - Led data migration from SQL Developer to HDFS, improving retrieval speeds by 40%.
 - Developed a React-based Cramer OSS with a Java backend, streamlining network architecture insights and reducing errors.
+- **Awards**: 
+  - Awarded **Pat on the Back** for excellent performance in Tech Mahindra.
+  - Recognized with the **Bravo Award** for outstanding contribution to project success.
 
 ### 💡 Projects:
 
@@ -41,7 +45,10 @@ I am an experienced Senior Software Engineer with a strong background in full-st
   - Designed a smart parking system using GCP’s Video Intelligence API, reducing parking congestion by 50%.
 
 ### 🏆 Achievements & Certifications:
-- Successfully migrated millions of phones to Cisco UC Manager Cloud with zero data loss.
+- **Awards**:
+  - Pat on the Back Award in Tech Mahindra.
+  - Bravo Award for Excellent Performance.
+  - Cisco Connected Recognition (CR) for Successful Migration and Documentation.
 - AWS Certified Solutions Architect (in-progress).
 - Enhanced network automation, boosting performance and reducing manual efforts.
 
